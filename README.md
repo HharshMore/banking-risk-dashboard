@@ -19,7 +19,8 @@ Page navigation buttons are on every page, and the Overview, Loans and Branches 
 
 ## Screenshots
 
-![Overview](screenshots/01_Overview.png)
+![Overview](screenshots/01_Overview.png) <img width="1482" height="834" alt="01_Overview" src="https://github.com/user-attachments/assets/5859f57e-92b5-47f0-bbd3-d7618f388226" />
+
 ![Loans](screenshots/02_Loans.png)
 ![Customers & KYC](screenshots/03_KYC.png)
 ![Branches](screenshots/04_Branches.png)
